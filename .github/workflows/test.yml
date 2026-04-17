@@ -10,6 +10,9 @@ on: #
 jobs: #
   build:
     runs-on: ubuntu-latest #
+    defaults:
+      run:
+        working-directory: practica_7.1
     steps: #
     - name: Checkout repository # 
       uses: actions/checkout@v2 #
