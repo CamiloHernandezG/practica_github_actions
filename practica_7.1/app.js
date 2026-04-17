@@ -14,6 +14,7 @@ var animals = {
     "cow": "moo",
     "duck": "quack",
     "pig": "oink",
+    "sheep": "baa",
 }
 
 function getAnimal() {
