@@ -13,6 +13,7 @@ var animals = {
     "bee": "buzz",
     "cow": "moo",
     "duck": "quack",
+    "pig": "oink",
 }
 
 function getAnimal() {
